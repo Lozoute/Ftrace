@@ -1,0 +1,9 @@
+*.*~
+*.o
+a.out
+*/a.out
+*.dot
+strace
+ftrace
+graph/graph
+graph/*.dot
